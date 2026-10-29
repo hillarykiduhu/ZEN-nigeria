@@ -1,0 +1,16 @@
+set_conversion_technologies:
+- collect_processing_residue
+- improved_stove_biomass
+- lpg_stove
+set_storage_technologies: []
+set_transport_technologies: []
+set_nodes:
+- NG
+reference_year: 2025
+unaggregated_time_steps_per_year: 8760
+aggregated_time_steps_per_year: 8760
+conduct_time_series_aggregation: false
+optimized_years: 1
+interval_between_years: 1
+use_rolling_horizon: false
+years_in_rolling_horizon: 1
